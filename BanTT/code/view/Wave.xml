@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<sence>
+	<DoKho wave="2">
+		<type2>2</type2>
+		<rank2>1</rank2>
+		<Quantity2>3</Quantity2>
+	</DoKho>
+	<DoKho wave="3">
+		<type3>1</type3>
+		<rank3>2</rank3>
+		<Quantity3>5</Quantity3>
+	</DoKho>
+	<DoKho wave="4">
+		<type4>2</type4>
+		<rank4>2</rank4>
+		<Quantity4>1</Quantity4>
+	</DoKho>
+</sence>
